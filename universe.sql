@@ -183,56 +183,56 @@ INSERT INTO public.galaxy VALUES (9, 'asdc', 1, 9, 1, true, true, 'asdc');
 -- Data for Name: moon; Type: TABLE DATA; Schema: public; Owner: freecodecamp
 --
 
-INSERT INTO public.moon VALUES (1, 'a', 1, 1, 1, true, true, 'a', 1);
-INSERT INTO public.moon VALUES (2, 'b', 1, 2, 1, true, true, 'b', 2);
-INSERT INTO public.moon VALUES (3, 'c', 1, 3, 1, true, true, 'c', 3);
-INSERT INTO public.moon VALUES (4, 'd', 1, 4, 1, true, true, 'd', 4);
-INSERT INTO public.moon VALUES (5, 'e', 1, 5, 1, true, true, 'e', 5);
-INSERT INTO public.moon VALUES (6, 'f', 1, 6, 1, true, true, 'f', 6);
-INSERT INTO public.moon VALUES (7, 'g', 1, 7, 1, true, true, 'g', 1);
-INSERT INTO public.moon VALUES (8, 'h', 1, 8, 1, true, true, 'h', 2);
-INSERT INTO public.moon VALUES (9, 'i', 1, 9, 1, true, true, 'i', 3);
-INSERT INTO public.moon VALUES (10, 'j', 1, 10, 1, true, true, 'j', 4);
-INSERT INTO public.moon VALUES (11, 'k', 1, 11, 1, true, true, 'k', 5);
-INSERT INTO public.moon VALUES (12, 'l', 1, 12, 1, true, true, 'l', 6);
-INSERT INTO public.moon VALUES (13, 'm', 1, 13, 1, true, true, 'm', 1);
-INSERT INTO public.moon VALUES (14, 'n', 1, 14, 1, true, true, 'n', 2);
-INSERT INTO public.moon VALUES (15, 'o', 1, 15, 1, true, true, 'o', 3);
-INSERT INTO public.moon VALUES (16, 'p', 1, 16, 1, true, true, 'p', 4);
-INSERT INTO public.moon VALUES (17, 'q', 1, 17, 1, true, true, 'q', 5);
-INSERT INTO public.moon VALUES (18, 'r', 1, 18, 1, true, true, 'r', 6);
-INSERT INTO public.moon VALUES (19, 's', 1, 19, 1, true, true, 's', 1);
-INSERT INTO public.moon VALUES (20, 't', 1, 20, 1, true, true, 't', 2);
+INSERT INTO public.moon VALUES (1, 'aa', 1, 1, 1, true, true, 'aa', 1);
+INSERT INTO public.moon VALUES (2, 'bb', 1, 2, 1, true, true, 'bb', 2);
+INSERT INTO public.moon VALUES (3, 'cb', 1, 3, 1, true, true, 'cc', 3);
+INSERT INTO public.moon VALUES (4, 'dd', 1, 4, 1, true, true, 'dd', 4);
+INSERT INTO public.moon VALUES (5, 'ee', 1, 5, 1, true, true, 'ee', 5);
+INSERT INTO public.moon VALUES (6, 'ff', 1, 6, 1, true, true, 'ff', 6);
+INSERT INTO public.moon VALUES (7, 'gg', 1, 7, 1, true, true, 'gg', 1);
+INSERT INTO public.moon VALUES (8, 'hh', 1, 8, 1, true, true, 'hh', 2);
+INSERT INTO public.moon VALUES (9, 'ii', 1, 9, 1, true, true, 'ii', 3);
+INSERT INTO public.moon VALUES (10, 'jj', 1, 10, 1, true, true, 'jj', 4);
+INSERT INTO public.moon VALUES (11, 'kk', 1, 11, 1, true, true, 'kk', 5);
+INSERT INTO public.moon VALUES (12, 'll', 1, 12, 1, true, true, 'll', 6);
+INSERT INTO public.moon VALUES (13, 'mm', 1, 13, 1, true, true, 'mm', 1);
+INSERT INTO public.moon VALUES (14, 'nn', 1, 14, 1, true, true, 'nn', 2);
+INSERT INTO public.moon VALUES (15, 'oo', 1, 15, 1, true, true, 'oo', 3);
+INSERT INTO public.moon VALUES (16, 'pp', 1, 16, 1, true, true, 'pp', 4);
+INSERT INTO public.moon VALUES (17, 'qq', 1, 17, 1, true, true, 'qq', 5);
+INSERT INTO public.moon VALUES (18, 'rr', 1, 18, 1, true, true, 'rr', 6);
+INSERT INTO public.moon VALUES (19, 'ss', 1, 19, 1, true, true, 'ss', 1);
+INSERT INTO public.moon VALUES (20, 'tt', 1, 20, 1, true, true, 'tt', 2);
 
 
 --
 -- Data for Name: planet; Type: TABLE DATA; Schema: public; Owner: freecodecamp
 --
 
-INSERT INTO public.planet VALUES (1, 'a', 1, 1, 1, true, true, 'a', 1);
-INSERT INTO public.planet VALUES (2, 'b', 1, 2, 1, true, true, 'b', 2);
-INSERT INTO public.planet VALUES (3, 'c', 1, 3, 1, true, true, 'c', 3);
-INSERT INTO public.planet VALUES (4, 'd', 1, 4, 1, true, true, 'd', 4);
-INSERT INTO public.planet VALUES (5, 'e', 1, 5, 1, true, true, 'e', 5);
-INSERT INTO public.planet VALUES (6, 'f', 1, 6, 1, true, true, 'f', 6);
-INSERT INTO public.planet VALUES (7, 'g', 1, 7, 1, true, true, 'g', 1);
-INSERT INTO public.planet VALUES (8, 'h', 1, 8, 1, true, true, 'h', 2);
-INSERT INTO public.planet VALUES (9, 'i', 1, 9, 1, true, true, 'i', 3);
-INSERT INTO public.planet VALUES (10, 'j', 1, 10, 1, true, true, 'j', 4);
-INSERT INTO public.planet VALUES (11, 'k', 1, 11, 1, true, true, 'k', 5);
-INSERT INTO public.planet VALUES (12, 'l', 1, 12, 1, true, true, 'l', 6);
+INSERT INTO public.planet VALUES (1, 'aa', 1, 1, 1, true, true, 'aa', 1);
+INSERT INTO public.planet VALUES (2, 'bb', 1, 2, 1, true, true, 'bb', 2);
+INSERT INTO public.planet VALUES (3, 'cc', 1, 3, 1, true, true, 'cc', 3);
+INSERT INTO public.planet VALUES (4, 'dd', 1, 4, 1, true, true, 'dd', 4);
+INSERT INTO public.planet VALUES (5, 'ee', 1, 5, 1, true, true, 'ee', 5);
+INSERT INTO public.planet VALUES (6, 'ff', 1, 6, 1, true, true, 'ff', 6);
+INSERT INTO public.planet VALUES (7, 'gg', 1, 7, 1, true, true, 'gg', 1);
+INSERT INTO public.planet VALUES (8, 'hh', 1, 8, 1, true, true, 'hh', 2);
+INSERT INTO public.planet VALUES (9, 'ii', 1, 9, 1, true, true, 'ii', 3);
+INSERT INTO public.planet VALUES (10, 'jj', 1, 10, 1, true, true, 'jj', 4);
+INSERT INTO public.planet VALUES (11, 'kk', 1, 11, 1, true, true, 'kk', 5);
+INSERT INTO public.planet VALUES (12, 'll', 1, 12, 1, true, true, 'll', 6);
 
 
 --
 -- Data for Name: star; Type: TABLE DATA; Schema: public; Owner: freecodecamp
 --
 
-INSERT INTO public.star VALUES (1, 'a', 1, 1, 1, true, true, 'a', 1);
-INSERT INTO public.star VALUES (2, 'b', 1, 2, 1, true, true, 'b', 2);
-INSERT INTO public.star VALUES (3, 'c', 1, 3, 1, true, true, 'c', 3);
-INSERT INTO public.star VALUES (4, 'd', 1, 4, 1, true, true, 'd', 4);
-INSERT INTO public.star VALUES (5, 'e', 1, 5, 1, true, true, 'e', 5);
-INSERT INTO public.star VALUES (6, 'f', 1, 6, 1, true, true, 'f', 6);
+INSERT INTO public.star VALUES (1, 'aa', 1, 1, 1, true, true, 'aa', 1);
+INSERT INTO public.star VALUES (2, 'bb', 1, 2, 1, true, true, 'bb', 2);
+INSERT INTO public.star VALUES (3, 'cc', 1, 3, 1, true, true, 'cc', 3);
+INSERT INTO public.star VALUES (4, 'dd', 1, 4, 1, true, true, 'dd', 4);
+INSERT INTO public.star VALUES (5, 'ee', 1, 5, 1, true, true, 'ee', 5);
+INSERT INTO public.star VALUES (6, 'ff', 1, 6, 1, true, true, 'ff', 6);
 
 
 --
